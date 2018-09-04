@@ -1,0 +1,14 @@
+{
+  "name": "gifbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joshua Lin (http://konekoya.github.io)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "request": "^2.88.0"
+  }
+}
